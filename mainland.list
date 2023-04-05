@@ -1,5 +1,5 @@
 # 大陆服务
-# 更新时间 2022.11.5
+# 更新时间 2023.1.1
 
 
 # Other
@@ -9,6 +9,7 @@ host-keyword, ctc.qzs.qzone.qq.com,大陆服务
 ip-cidr, 192.168.0.1/24,大陆服务
 ip-cidr, 192.168.1.1/24,大陆服务
 host-keyword, anti-ad.net,大陆服务
+HOST,sdkapp.uve.weibo.com,大陆服务
 
 
 # 苹果服务
@@ -29,7 +30,38 @@ host-keyword, ls.apple.com,大陆服务
 host-keyword, gsa.apple.com,大陆服务
 host-keyword, ess.apple.com,大陆服务
 
-
+# 微信
+HOST,dl.wechat.com,大陆服务
+HOST,sgfindershort.wechat.com,大陆服务
+HOST,sgilinkshort.wechat.com,大陆服务
+HOST,sglong.wechat.com,大陆服务
+HOST,sgminorshort.wechat.com,大陆服务
+HOST,sgshort.wechat.com,大陆服务
+HOST,tencentmap.wechat.com,大陆服务
+HOST-SUFFIX,qlogo.cn,大陆服务
+HOST-SUFFIX,qpic.cn,大陆服务
+HOST-SUFFIX,servicewechat.com,大陆服务
+HOST-SUFFIX,tenpay.com,大陆服务
+HOST-SUFFIX,wechat.com,大陆服务
+HOST-SUFFIX,wechatlegal.net,大陆服务
+HOST-SUFFIX,wechatpay.com,大陆服务
+HOST-SUFFIX,weixin.com,大陆服务
+HOST-SUFFIX,weixin.qq.com,大陆服务
+HOST-SUFFIX,weixinbridge.com,大陆服务
+HOST-SUFFIX,weixinsxy.com,大陆服务
+HOST-SUFFIX,wxapp.tc.qq.com,大陆服务
+HOST-KEYWORD,43.156.222.,大陆服务
+USER-AGENT,MicroMessenger*,大陆服务
+USER-AGENT,WeChat*,大陆服务
+IP-CIDR,101.32.104.4/32,大陆服务
+IP-CIDR,101.32.104.41/32,大陆服务
+IP-CIDR,101.32.104.56/32,大陆服务
+IP-CIDR,101.32.118.25/32,大陆服务
+IP-CIDR,101.32.133.16/32,大陆服务
+IP-CIDR,101.32.133.209/32,大陆服务
+IP-CIDR,101.32.133.53/32,大陆服务
+IP-CIDR,129.226.107.244/32,大陆服务
+IP-CIDR,129.226.3.47/32,大陆服务
 
 # UC浏览器
 HOST-SUFFIX,appchaoshi.cn,大陆服务
